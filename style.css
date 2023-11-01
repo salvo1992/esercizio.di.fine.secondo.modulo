@@ -1,0 +1,22 @@
+#searchButton {
+    background-color: #0dbec4;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#searchButton:hover {
+    background-color: #0056b3;
+}
+
+.testo-bianco {
+    color: #FFFFFF;
+  }
+
+  
+  .sfondo-rgb {
+    background-color: rgb(161, 70, 56);
+  }
